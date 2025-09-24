@@ -1,0 +1,118 @@
+[
+    {
+    "categoria": "Nuestros Clásicos",
+    "productos": [
+      { "nombre": "Pollo asado entero", "descripcion": "Pollo entero asado al estilo tradicional, jugoso y con piel dorada.", "precio": "13,00€", "alergenos": ["free-alergenos"] },
+      { "nombre": "1/2 Pollo asado", "descripcion": "Medio pollo asado, ideal para una comida más ligera o para compartir.", "precio": "6,50€", "alergenos": ["free-alergenos"] },
+      { "nombre": "Costillar BBQ entero", "descripcion": "Costillar entero de cerdo asado con salsa barbacoa casera.", "precio": "18,00€", "alergenos": ["soja","sulfitos"] },
+      { "nombre": "1/2 Costillar BBQ", "descripcion": "Medio costillar de cerdo con salsa barbacoa casera.", "precio": "9,00€", "alergenos": ["soja","sulfitos"] },
+      { "nombre": "Tortilla de patata", "descripcion": "Clásica tortilla española elaborada con huevo y patata.", "precio": "8,00€", "alergenos": ["huevos"] }
+    ]
+  },
+  {
+    "categoria": "Raciones",
+    "productos": [
+      { "nombre": "Pimientos asados", "descripcion": "Pimientos rojos asados con un toque de aceite de oliva.", "precio": "4,50€", "alergenos": ["free-alergenos"] },
+      { "nombre": "Callos con garbanzos", "descripcion": "Guiso tradicional de callos con garbanzos en salsa.", "precio": "7,00€", "alergenos": ["gluten"] },
+      { "nombre": "Pulpo a la gallega", "descripcion": "Pulpo cocido con patatas, aceite de oliva y pimentón.", "precio": "15,00€", "alergenos": ["moluscos"] },
+      { "nombre": "Lacón a la gallega", "descripcion": "Lacón cocido acompañado de patata y pimentón.", "precio": "7,00€", "alergenos": ["free-alergenos"] },
+      { "nombre": "Migas caseras", "descripcion": "Migas de pan salteadas con panceta y chorizo.", "precio": "6,00€", "alergenos": ["gluten"] },
+      { "nombre": "Pisto de verduras", "descripcion": "Salteado de verduras de la huerta al estilo manchego.", "precio": "5,00€", "alergenos": ["free-alergenos"] },
+      { "nombre": "Fabada asturiana", "descripcion": "Clásico guiso de fabes con embutido asturiano.", "precio": "7,00€", "alergenos": ["free-alergenos"] },
+      { "nombre": "Cocido madrileño", "descripcion": "Plato típico madrileño con garbanzos, verduras y carnes variadas.", "precio": "18,00€", "alergenos": ["gluten"] }
+    ]
+  },
+  {
+    "categoria": "Arroces (por encargo)",
+    "productos": [
+      { "nombre": "Paella mixta", "descripcion": "Paella tradicional con marisco, carne y verduras.", "precio": "13,00€ / persona", "alergenos": ["moluscos","crustaceos","gluten"] },
+      { "nombre": "Arroz con bogavante", "descripcion": "Arroz caldoso con bogavante fresco.", "precio": "17,00€ / persona", "alergenos": ["moluscos","crustaceos"] },
+      { "nombre": "Arroz negro con alioli", "descripcion": "Arroz negro con tinta de calamar acompañado de alioli.", "precio": "13,00€ / persona", "alergenos": ["moluscos","huevos"] },
+      { "nombre": "Arroz tres delicias (oriental)", "descripcion": "Clásico arroz frito con verduras, huevo y jamón york.", "precio": "9,00€", "alergenos": ["gluten","huevos","soja"] },
+      { "nombre": "Arroz chaufa (oriental peruano)", "descripcion": "Arroz frito peruano con verduras, salsa de soja y pollo.", "precio": "9,00€", "alergenos": ["gluten","soja","huevos"] }
+    ]
+  },
+  {
+    "categoria": "Entrantes y Aperitivos",
+    "productos": [
+      { "nombre": "Boquerones en vinagre", "descripcion": "Boquerones marinados en vinagre y ajo.", "precio": "12,00€", "alergenos": ["pescado","sulfitos"] },
+      { "nombre": "Patatas alioli", "descripcion": "Patatas cocidas con salsa alioli casera.", "precio": "5,00€", "alergenos": ["huevos"] },
+      { "nombre": "Huevos rellenos", "descripcion": "Huevos cocidos rellenos de atún y mayonesa (precio por unidad).", "precio": "1,40€", "alergenos": ["huevos","pescado"] },
+      { "nombre": "Fingers de pollo", "descripcion": "Crujientes fingers de pollo rebozados (250 g).", "precio": "5,00€", "alergenos": ["gluten","huevos"] },
+      { "nombre": "Pollo a la Villeroy", "descripcion": "Pollo con cobertura cremosa y rebozado.", "precio": "5,00€", "alergenos": ["gluten","lacteos","huevos"] },
+      { "nombre": "Croquetas de pollo (10 uni)", "descripcion": "Croquetas caseras de pollo con bechamel.", "precio": "6,50€", "alergenos": ["gluten","lacteos","huevos"] },
+      { "nombre": "Croquetas de jamón (8 uni)", "descripcion": "Croquetas caseras de jamón serrano.", "precio": "6,50€", "alergenos": ["gluten","lacteos","huevos"] },
+      { "nombre": "Croquetas de boletus (8 uni)", "descripcion": "Croquetas cremosas con boletus.", "precio": "6,50€", "alergenos": ["gluten","lacteos","huevos"] },
+      { "nombre": "Croquetas de cabrales (8 uni)", "descripcion": "Croquetas con intenso sabor a queso cabrales.", "precio": "6,50€", "alergenos": ["gluten","lacteos","huevos"] },
+      { "nombre": "Croquetas de bacalao (8 uni)", "descripcion": "Croquetas caseras de bacalao con bechamel.", "precio": "6,50€", "alergenos": ["gluten","pescado","lacteos","huevos"] }
+    ]
+  },
+  {
+    "categoria": "Ensaladas",
+    "productos": [
+      { "nombre": "Ensalada rusa", "descripcion": "Ensalada de patata, zanahoria, guisantes y mayonesa.", "precio": "4,50€", "alergenos": ["huevos"] },
+      { "nombre": "Ensalada César", "descripcion": "Ensalada de lechuga, pollo, picatostes, queso y salsa césar.", "precio": "5,00€", "alergenos": ["gluten","huevos","lacteos","pescado"] },
+      { "nombre": "Ensalada de atún", "descripcion": "Ensalada fresca de lechuga, tomate, huevo cocido y atún.", "precio": "5,00€", "alergenos": ["huevos","pescado"] }
+    ]
+  },
+  {
+    "categoria": "Verduras",
+    "productos": [
+      { "nombre": "Berenjenas rellenas", "descripcion": "Berenjenas al horno rellenas de carne y gratinadas.", "precio": "5,50€", "alergenos": ["gluten","lacteos"] },
+      { "nombre": "Judías verdes", "descripcion": "Judías verdes frescas con un toque de aceite de oliva.", "precio": "5,00€", "alergenos": ["free-alergenos"] }
+    ]
+  },
+  {
+    "categoria": "Pastas",
+    "productos": [
+      { "nombre": "Lasaña de carne o pollo", "descripcion": "Lasaña al horno con bechamel y queso gratinado.", "precio": "6,00€", "alergenos": ["gluten","lacteos"] },
+      { "nombre": "Macarrones con carne", "descripcion": "Macarrones con salsa de tomate casera y carne picada.", "precio": "5,50€", "alergenos": ["gluten"] },
+      { "nombre": "Spaguetis a la carbonara", "descripcion": "Espaguetis con salsa carbonara de nata, huevo y bacon.", "precio": "5,50€", "alergenos": ["gluten","huevos","lacteos"] },
+      { "nombre": "Spaguetis al pesto", "descripcion": "Espaguetis con salsa pesto de albahaca y piñones.", "precio": "5,50€", "alergenos": ["gluten","frutos de cáscara","lacteos"] },
+      { "nombre": "Tallarines orientales de verduras", "descripcion": "Tallarines salteados al wok con verduras frescas.", "precio": "9,00€", "alergenos": ["gluten","soja"] }
+    ]
+  },
+  {
+    "categoria": "Carnes",
+    "productos": [
+      { "nombre": "Albóndigas de carne", "descripcion": "Albóndigas de carne en salsa casera.", "precio": "6,00€", "alergenos": ["gluten","huevos"] },
+      { "nombre": "Hamburguesa", "descripcion": "Hamburguesa sencilla de carne con pan.", "precio": "4,00€", "alergenos": ["gluten"] },
+      { "nombre": "Hamburguesa doble carne", "descripcion": "Hamburguesa con doble de carne y pan.", "precio": "6,50€", "alergenos": ["gluten"] }
+    ]
+  },
+  {
+    "categoria": "Pescados",
+    "productos": [
+      { "nombre": "Merluza rebozada", "descripcion": "Filete de merluza fresco rebozado y frito.", "precio": "5,00€", "alergenos": ["pescado","gluten","huevos"] },
+      { "nombre": "Bacalao a la vizcaína", "descripcion": "Bacalao rebozado con salsa vizcaína.", "precio": "7,00€", "alergenos": ["pescado","gluten","huevos"] },
+      { "nombre": "Salmón a la plancha", "descripcion": "Salmón fresco a la plancha con guarnición.", "precio": "9,00€", "alergenos": ["pescado"] }
+    ]
+  },
+  {
+    "categoria": "Postres",
+    "productos": [
+      { "nombre": "Flan casero (200g)", "descripcion": "Flan de huevo casero con caramelo.", "precio": "2,50€", "alergenos": ["huevos","lacteos"] },
+      { "nombre": "Tarta de queso (200g)", "descripcion": "Tarta de queso cremosa al horno.", "precio": "3,50€", "alergenos": ["gluten","lacteos","huevos"] }
+    ]
+  },
+  {
+    "categoria": "Galería",
+    "productos": [ 
+      {"nombre": "Imagen 1", "descripcion": "Descripción de la imagen 1", "url": "imagenes/imagen1.png"},
+      {"nombre": "Imagen 1", "descripcion": "Descripción de la imagen 1", "url": "imagenes/imagen2.png"},
+      {"nombre": "Imagen 2", "descripcion": "Descripción de la imagen 2", "url": "imagenes/imagen3.png"},
+      {"nombre": "Imagen 2", "descripcion": "Descripción de la imagen 2", "url": "imagenes/imagen4.png"},
+      {"nombre": "Imagen 3", "descripcion": "Descripción de la imagen 3", "url": "imagenes/imagen5.png"},
+      {"nombre": "Imagen 3", "descripcion": "Descripción de la imagen 3", "url": "imagenes/imagen6.png"},
+      {"nombre": "Imagen 4", "descripcion": "Descripción de la imagen 4", "url": "imagenes/imagen7.png"},
+      {"nombre": "Imagen 4", "descripcion": "Descripción de la imagen 4", "url": "imagenes/imagen8.png"},
+      {"nombre": "Imagen 5", "descripcion": "Descripción de la imagen 5", "url": "imagenes/imagen9.png"},
+      {"nombre": "Imagen 5", "descripcion": "Descripción de la imagen 5", "url": "imagenes/imagen10.png"}
+
+    ]
+  },
+  {
+    "categoria": "Contacto",
+    "productos": []
+  }
+]
