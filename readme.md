@@ -1,13 +1,13 @@
-# Bar Atenea
+# Asador de Pollos
 
-Sitio web para el Bar Atenea, donde los usuarios pueden consultar el menú de desayunos, raciones, hamburguesas, bocadillos, bebidas, postres, promociones y datos de contacto.
+Sitio web para el Asador de Pollos, donde los usuarios pueden consultar el menú de pollos asados, raciones, bocadillos, bebidas, postres, promociones y datos de contacto.
 
-**[Ver la web en línea](https://byruby12.github.io/BarAtenea/)**
+**[Ver la web en línea](https://byruby12.github.io/AsadorPollos/)**
 
 ## Características
 
 - Menú interactivo con categorías navegables.
-- Carga dinámica de información del bar (nombre, dirección, logo, banner) desde un archivo JSON.
+- Carga dinámica de información del asador (nombre, dirección, logo, banner) desde un archivo JSON.
 - Diseño responsivo y visual atractivo.
 - Footer con enlace al perfil del desarrollador.
 
@@ -16,7 +16,7 @@ Sitio web para el Bar Atenea, donde los usuarios pueden consultar el menú de de
 - `index.html`: Página principal del sitio web.
 - `estilos/style.css`: Hojas de estilo para el diseño visual.
 - `funciones/script.js`: Lógica JavaScript para la interacción y carga dinámica de datos.
-- `datos/info-bar.json`: Archivo con la información del bar (nombre, dirección, imágenes).
+- `datos/info-bar.json`: Archivo con la información del asador (nombre, dirección, imágenes).
 - `imagenes/`: Carpeta con imágenes del logo y banner.
 
 ## Instalación y uso
@@ -27,7 +27,7 @@ Sitio web para el Bar Atenea, donde los usuarios pueden consultar el menú de de
 
 ## Personalización
 
-- Modifica `datos/info-bar.json` para cambiar el nombre, dirección, logo o banner del bar.
+- Modifica `datos/info-bar.json` para cambiar el nombre, dirección, logo o banner del asador.
 - Agrega o edita imágenes en la carpeta `imagenes/`.
 - Personaliza los estilos en `estilos/style.css`.
 
