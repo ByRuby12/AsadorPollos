@@ -1,5 +1,5 @@
 {
-  "nombreBar": "Asador de Pollos",
+  "nombreBar": "Date un Gustito",
   "direccion": "C. de Telémaco, 8, Local 1, 28027 Madrid",
   "telefono": "911479644",
   "email": "pruebapruebaprueba",
@@ -7,8 +7,8 @@
   "enlaceGoogleMaps": "pruebapruebaprueba",
   "logo": "imagenes/logo-bar.png",
   "banner": "imagenes/banner-bar.jpg",
-  "descripcion": "Asador de Pollos - Tu lugar para disfrutar de deliciosos desayunos, raciones, hamburguesas, bocadillos y más.",
-  "keywords": "Asador de Pollos, desayunos, raciones, hamburguesas, bocadillos, bebidas, postres, promociones, contacto",
+  "descripcion": "Date un Gustito - Tu lugar para disfrutar de deliciosos desayunos, raciones, hamburguesas, bocadillos y más.",
+  "keywords": "Date un Gustito, desayunos, raciones, hamburguesas, bocadillos, bebidas, postres, promociones, contacto",
   "logoFooter": "imagenes/logo-bar.png",
   "iconoFavicon": "imagenes/logo-bar-2.png",
   "footerDerechos": "Copyright ©{year} Derechos reservados para {bar}",
@@ -143,4 +143,5 @@
   "color-galeria-modal-bg":  "#000000D9",
   "color-galeria-modal-contador-bg": "#00000073"
   }
+
 }
