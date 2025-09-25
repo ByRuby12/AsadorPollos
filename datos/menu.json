@@ -69,7 +69,8 @@
       { "nombre": "Macarrones con carne", "descripcion": "Macarrones con salsa de tomate casera y carne picada.", "precio": "5,50€", "alergenos": ["gluten"] },
       { "nombre": "Spaguetis a la carbonara", "descripcion": "Espaguetis con salsa carbonara de nata, huevo y bacon.", "precio": "5,50€", "alergenos": ["gluten","huevos","lacteos"] },
       { "nombre": "Spaguetis al pesto", "descripcion": "Espaguetis con salsa pesto de albahaca y piñones.", "precio": "5,50€", "alergenos": ["gluten","frutos de cáscara","lacteos"] },
-      { "nombre": "Tallarines orientales de verduras", "descripcion": "Tallarines salteados al wok con verduras frescas.", "precio": "9,00€", "alergenos": ["gluten","soja"] }
+      { "nombre": "Tallarines orientales de verduras", "descripcion": "Tallarines salteados al wok con verduras frescas.", "precio": "9,00€", "alergenos": ["gluten","soja"] },
+      { "nombre": "Filete de pavo aliñado", "descripcion": "Filete de pavo marinado con especias y cocinado a la plancha.", "precio": "7,00€", "alergenos": ["free-alergenos"] }
     ]
   },
   {
