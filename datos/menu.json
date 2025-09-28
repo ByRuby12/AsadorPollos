@@ -5,6 +5,7 @@
       { "nombre": "Pollo asado entero", "descripcion": "Pollo entero asado al estilo tradicional, jugoso y con piel dorada.", "precio": "13,00€", "alergenos": ["free-alergenos"] },
       { "nombre": "1/2 Pollo asado", "descripcion": "Medio pollo asado, ideal para una comida más ligera o para compartir.", "precio": "6,50€", "alergenos": ["free-alergenos"] },
       { "nombre": "Costillar BBQ entero", "descripcion": "Costillar entero de cerdo asado con salsa barbacoa casera.", "precio": "18,00€", "alergenos": ["soja","sulfitos"] },
+      { "nombre": "Pollo entero 2KG", "descripcion": "Pollo entero asado al estilo tradicional, jugoso y con piel dorada.", "precio": "18,00€", "alergenos": ["free-alergenos"] },
       { "nombre": "1/2 Costillar BBQ", "descripcion": "Medio costillar de cerdo con salsa barbacoa casera.", "precio": "9,00€", "alergenos": ["soja","sulfitos"] },
       { "nombre": "Tortilla de patata", "descripcion": "Clásica tortilla española elaborada con huevo y patata.", "precio": "8,00€", "alergenos": ["huevos"] }
     ]
@@ -117,3 +118,4 @@
     "productos": []
   }
 ]
+
