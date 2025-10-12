@@ -14,8 +14,8 @@
   "categoria": "Menús de Pollos Asados",
   "productos": [
     { "nombre": "1/2 Pollo asado + 1/2 Ración de patatas", "descripcion": "Medio pollo asado acompañado de media ración de patatas fritas o panaderas.", "precio": "9,00€", "alergenos": ["free-alergenos"] },
-    { "nombre": "Pollo asado entero + 12 Croquetas de pollo", "descripcion": "Pollo asado entero acompañado de 12 croquetas de pollo caseras.", "precio": "18,00€", "alergenos": ["gluten","huevos","lácteos"] },
-    { "nombre": "Pollo asado entero + 8 Croquetas variadas", "descripcion": "Pollo asado entero acompañado de 8 croquetas surtidas de distintos sabores.", "precio": "18,00€", "alergenos": ["gluten","huevos","lácteos"] },
+    { "nombre": "Pollo asado entero + 12 Croquetas de pollo", "descripcion": "Pollo asado entero acompañado de 12 croquetas de pollo caseras.", "precio": "18,00€", "alergenos": ["gluten","huevos","lacteos"] },
+    { "nombre": "Pollo asado entero + 8 Croquetas variadas", "descripcion": "Pollo asado entero acompañado de 8 croquetas surtidas de distintos sabores.", "precio": "18,00€", "alergenos": ["gluten","huevos","lacteos"] },
     { "nombre": "Pollo asado entero + 1 Tortilla de patatas", "descripcion": "Pollo asado entero acompañado de una tortilla de patatas tradicional.", "precio": "20,00€", "alergenos": ["huevos"] },
     { "nombre": "Pollo asado entero + Patatas al horno (350g)", "descripcion": "Pollo asado entero acompañado de 350 gramos de patatas al horno doradas.", "precio": "16,00€", "alergenos": ["free-alergenos"] },
     { "nombre": "Pollo asado entero + Ensaladilla rusa (250g)", "descripcion": "Pollo asado entero acompañado de 250 gramos de ensaladilla rusa casera.", "precio": "17,00€", "alergenos": ["huevos","pescado"] },
@@ -132,6 +132,7 @@
     "productos": []
   }
 ]
+
 
 
 
