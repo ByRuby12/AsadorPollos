@@ -4,9 +4,11 @@
     "productos": [
       { "nombre": "Pollo asado entero", "descripcion": "Pollo entero asado al estilo tradicional, jugoso y con piel dorada.", "precio": "13,00€", "alergenos": ["free-alergenos"] },
       { "nombre": "1/2 Pollo asado", "descripcion": "Medio pollo asado, ideal para una comida más ligera o para compartir.", "precio": "6,50€", "alergenos": ["free-alergenos"] },
+      { "nombre": "1/4 Pollo asado + Patatas", "descripcion": "Jugoso cuarto de pollo asado acompañado de una ración de patatas fritas.", "precio": "5,50€", "alergenos": ["free-alergenos"] },
       { "nombre": "Costillar BBQ entero", "descripcion": "Costillar entero de cerdo asado con salsa barbacoa casera.", "precio": "18,00€", "alergenos": ["soja","sulfitos"] },
       { "nombre": "1/2 Costillar BBQ", "descripcion": "Medio costillar de cerdo con salsa barbacoa casera.", "precio": "9,00€", "alergenos": ["soja","sulfitos"] },
-      { "nombre": "Tortilla de patata", "descripcion": "Clásica tortilla española elaborada con huevo y patata.", "precio": "8,00€", "alergenos": ["huevos"] }
+      { "nombre": "Tortilla de patata", "descripcion": "Clásica tortilla española elaborada con huevo y patata.", "precio": "8,00€", "alergenos": ["huevos"]},
+      { "nombre": "1/4 Pollo asado (Menú Brasa)", "descripcion": "Menú completo con cuarto de pollo asado, patatas fritas, arroz tres delicias y una gaseosa incluida.", "precio": "7,00€", "alergenos": ["huevos", "soja", "gluten"] }
     ]
   },
   {
@@ -117,5 +119,6 @@
     "productos": []
   }
 ]
+
 
 
