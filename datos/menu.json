@@ -1,16 +1,29 @@
 [
     {
-    "categoria": "Nuestros Clásicos",
-    "productos": [
-      { "nombre": "Pollo asado entero", "descripcion": "Pollo entero asado al estilo tradicional, jugoso y con piel dorada.", "precio": "13,00€", "alergenos": ["free-alergenos"] },
-      { "nombre": "1/2 Pollo asado", "descripcion": "Medio pollo asado, ideal para una comida más ligera o para compartir.", "precio": "6,50€", "alergenos": ["free-alergenos"] },
-      { "nombre": "1/4 Pollo asado + Patatas", "descripcion": "Jugoso cuarto de pollo asado acompañado de una ración de patatas fritas.", "precio": "5,50€", "alergenos": ["free-alergenos"] },
-      { "nombre": "Costillar BBQ entero", "descripcion": "Costillar entero de cerdo asado con salsa barbacoa casera.", "precio": "18,00€", "alergenos": ["soja","sulfitos"] },
-      { "nombre": "1/2 Costillar BBQ", "descripcion": "Medio costillar de cerdo con salsa barbacoa casera.", "precio": "9,00€", "alergenos": ["soja","sulfitos"] },
-      { "nombre": "Tortilla de patata", "descripcion": "Clásica tortilla española elaborada con huevo y patata.", "precio": "8,00€", "alergenos": ["huevos"]},
-      { "nombre": "1/4 Pollo asado (Menú Brasa)", "descripcion": "Menú completo con cuarto de pollo asado, patatas fritas, arroz tres delicias y una gaseosa incluida.", "precio": "7,00€", "alergenos": ["huevos", "soja", "gluten"] }
-    ]
-  },
+  "categoria": "Nuestros Clásicos",
+  "productos": [
+    { "nombre": "Pollo asado entero", "descripcion": "Pollo entero asado al estilo tradicional, jugoso y con piel dorada.", "precio": "13,00€", "alergenos": ["free-alergenos"] },
+    { "nombre": "1/2 Pollo asado", "descripcion": "Medio pollo asado, ideal para una comida más ligera o para compartir.", "precio": "6,50€", "alergenos": ["free-alergenos"] },
+    { "nombre": "Costillar BBQ entero", "descripcion": "Costillar entero de cerdo asado con salsa barbacoa casera.", "precio": "18,00€", "alergenos": ["soja","sulfitos"] },
+    { "nombre": "1/2 Costillar BBQ", "descripcion": "Medio costillar de cerdo con salsa barbacoa casera.", "precio": "9,00€", "alergenos": ["soja","sulfitos"] },
+    { "nombre": "Tortilla de patata", "descripcion": "Clásica tortilla española elaborada con huevo y patata.", "precio": "8,00€", "alergenos": ["huevos"] },
+    { "nombre": "1/4 Pollo asado (Menú Brasa)", "descripcion": "Menú completo con cuarto de pollo asado, patatas fritas, arroz tres delicias y una gaseosa incluida.", "precio": "7,00€", "alergenos": ["huevos","soja","gluten"] }
+  ]
+},
+{
+  "categoria": "Menús de Pollos Asados",
+  "productos": [
+    { "nombre": "1/2 Pollo asado + 1/2 Ración de patatas", "descripcion": "Medio pollo asado acompañado de media ración de patatas fritas o panaderas.", "precio": "9,00€", "alergenos": ["free-alergenos"] },
+    { "nombre": "Pollo asado entero + 12 Croquetas de pollo", "descripcion": "Pollo asado entero acompañado de 12 croquetas de pollo caseras.", "precio": "18,00€", "alergenos": ["gluten","huevos","lácteos"] },
+    { "nombre": "Pollo asado entero + 8 Croquetas variadas", "descripcion": "Pollo asado entero acompañado de 8 croquetas surtidas de distintos sabores.", "precio": "18,00€", "alergenos": ["gluten","huevos","lácteos"] },
+    { "nombre": "Pollo asado entero + 1 Tortilla de patatas", "descripcion": "Pollo asado entero acompañado de una tortilla de patatas tradicional.", "precio": "20,00€", "alergenos": ["huevos"] },
+    { "nombre": "Pollo asado entero + Patatas al horno (350g)", "descripcion": "Pollo asado entero acompañado de 350 gramos de patatas al horno doradas.", "precio": "16,00€", "alergenos": ["free-alergenos"] },
+    { "nombre": "Pollo asado entero + Ensaladilla rusa (250g)", "descripcion": "Pollo asado entero acompañado de 250 gramos de ensaladilla rusa casera.", "precio": "17,00€", "alergenos": ["huevos","pescado"] },
+    { "nombre": "Pollo asado entero + Patatas alioli (250g)", "descripcion": "Pollo asado entero acompañado de 250 gramos de patatas con salsa alioli.", "precio": "17,00€", "alergenos": ["huevos"] },
+    { "nombre": "1/2 Ración de patatas fritas o panaderas", "descripcion": "Media ración de patatas fritas o panaderas caseras, crujientes y doradas.", "precio": "2,50€", "alergenos": ["free-alergenos"] },
+    { "nombre": "1 Ración de patatas fritas o panaderas", "descripcion": "Ración completa de patatas fritas o panaderas caseras, crujientes y doradas.", "precio": "3,50€", "alergenos": ["free-alergenos"] }
+  ]
+},
   {
     "categoria": "Raciones",
     "productos": [
@@ -119,6 +132,7 @@
     "productos": []
   }
 ]
+
 
 
 
